@@ -1,0 +1,46 @@
+
+.mainheader {
+    width: 1280px;
+    padding: 80px;
+    background-color: #222222; 
+}
+.mainul {
+    list-style: none;
+    color: white;
+}
+.recommendations-list {
+    list-style: none;
+}
+/*.recommendation-list li::before {
+    content: '';
+    left:   ;
+    top  ;
+    width:   ;
+    height  ;
+    background-color:   ;
+}*/
+.tr1 {
+    background-color: #000000;
+    color: white;
+    width: 1280px;
+}  
+.tr2 {
+    background-color: #222222;
+    color: white;
+    width: 1280px;
+}
+
+.mainnav {
+    color: white;
+}
+/*.maimulll {
+    font-size: 50px;
+}
+*/
+.footer {
+    background-color: #222222;
+}
+.fot {
+    color: #888888;
+    list-style: none;
+}
